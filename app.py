@@ -1,5 +1,5 @@
 a = 10
-b = 5
+b = 10
 
 sum_result = a + b
 product = a * b
